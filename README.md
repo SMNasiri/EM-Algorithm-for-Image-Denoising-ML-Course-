@@ -12,4 +12,9 @@ The primary goal of this project is to estimate clean versions of corrupted imag
 2. Applying the EM algorithm to infer the parameters of the GMM.
 3. Reconstructing the denoised images by leveraging the posterior distribution of the clean patches.
 
+---
 
+## **Results**
+Here are examples of noisy and denoised images:
+
+![Results: Noisy vs. Denoised Images](output.png)
